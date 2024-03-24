@@ -1,3 +1,3 @@
-these are the names and codes of solved problems here : (hope u find it usefull ^_^)
+probems :
 *)A. Square #920(div3)
 *)A. Rook  #913(div3)
